@@ -1,0 +1,1760 @@
+Oct 08, 2024 7:46:30 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 08, 2024 7:46:35 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:46:35 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:46:35 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 08, 2024 7:46:39 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:46:39 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:46:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 08, 2024 7:46:44 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:46:44 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:46:44 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 08, 2024 7:46:47 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:46:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:46:47 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 08, 2024 7:47:00 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:47:00 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:47:00 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 08, 2024 11:17:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 08, 2024 11:17:55 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:17:55 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:17:55 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 08, 2024 11:18:00 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:18:00 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:18:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 08, 2024 11:18:08 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:18:08 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:18:08 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 08, 2024 11:18:16 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:18:16 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:18:16 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 08, 2024 11:18:30 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:18:30 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:18:30 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 08, 2024 11:22:03 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 08, 2024 11:22:09 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:22:09 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:22:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 08, 2024 11:22:14 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:22:14 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:22:14 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 08, 2024 11:22:19 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:22:19 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:22:19 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 08, 2024 11:22:24 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 11:22:24 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:22:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 08, 2024 11:22:41 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 08, 2024 11:22:41 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 11:22:41 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:25:46 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:26:00 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:26:00 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:26:00 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 10:26:22 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29142}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29142/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 103a57018d40a2f354fd5383652d66de
+Oct 09, 2024 10:26:22 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:26:22 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 09, 2024 10:26:44 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29161/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 452bb674cc17225ed25e99ae92b74a04
+Oct 09, 2024 10:26:44 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:26:44 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 09, 2024 10:27:06 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29189}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29189/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 12b8137eed2b9f60d1024c60ed8e3a70
+Oct 09, 2024 10:27:06 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:27:06 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 09, 2024 10:27:28 AM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29237}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29237/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a3141cccf3e49a45a8d683f63d40d30
+Oct 09, 2024 10:27:28 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:27:30 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:31:02 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:31:16 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:31:16 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:31:16 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 10:31:38 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29728/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1358f4f51bd8d55058c8a74caf955c31
+Oct 09, 2024 10:31:38 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:31:38 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 09, 2024 10:32:00 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29773}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29773/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9e38ed2fbddd084c5ea15333f0362e6
+Oct 09, 2024 10:32:00 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:32:00 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 09, 2024 10:32:22 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29801}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29801/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a484b4a45c4ea0ec3e2c51463680a5c4
+Oct 09, 2024 10:32:22 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:32:23 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 09, 2024 10:32:46 AM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:29839}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:29839/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 748d95b2da3be0cd87eb32bae08ef192
+Oct 09, 2024 10:32:46 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:32:46 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:33:33 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:33:46 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:33:46 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:33:46 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 10:34:03 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:34:16 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:34:16 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:34:16 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 10:34:38 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30022/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a73ba3ee41d7e46098950040547ee4ea
+Oct 09, 2024 10:34:38 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:34:38 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 09, 2024 10:35:00 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30052}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30052/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e6f46f03486a1ae174b2b13b5fb0530
+Oct 09, 2024 10:35:00 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:35:00 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 09, 2024 10:35:22 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30073}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30073/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 65769f2221d1eef2e99ec540e2effaef
+Oct 09, 2024 10:35:22 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:35:23 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 09, 2024 10:35:45 AM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30099}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30099/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 925ec78a39c5c18e4d132ec9400a2187
+Oct 09, 2024 10:35:45 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:35:45 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:51:27 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:51:39 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:51:39 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:51:39 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:54:33 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:54:46 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:54:46 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:54:46 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:56:36 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:56:48 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:56:48 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:56:48 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:56:48 AM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 09, 2024 10:56:48 AM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 09, 2024 11:01:34 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 11:01:47 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 11:01:47 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:01:47 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 11:02:20 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 11:02:32 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 11:02:32 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:02:32 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 11:02:45 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Oct 09, 2024 11:02:45 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:02:45 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 11:02:45 AM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 09, 2024 11:02:45 AM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 09, 2024 11:02:48 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 11:03:00 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 11:03:00 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:03:00 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 11:03:13 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='username'] (tried for 10 second(s) with 500 milliseconds interval)
+Oct 09, 2024 11:03:13 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:03:13 AM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 11:03:13 AM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 09, 2024 11:03:13 AM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 09, 2024 11:06:59 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 11:07:23 AM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 11:07:23 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:07:23 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 11:10:58 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 11:11:05 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6dbcd5deac7ebd9ee6c37cc3519e91a8, findElement {value=//button[@type='button'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:31817}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:31817/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6dbcd5deac7ebd9ee6c37cc3519e91a8
+Oct 09, 2024 11:11:05 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:11:07 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 11:23:32 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 11:23:35 AM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d4385200076eea68b5450678eba1c6f, findElement {value=//button[@type='button'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:32539}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:32539/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d4385200076eea68b5450678eba1c6f
+Oct 09, 2024 11:23:35 AM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 11:23:37 AM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 10:07:42 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 09, 2024 10:07:42 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 09, 2024 10:07:42 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 09, 2024 10:07:42 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 09, 2024 10:07:43 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 09, 2024 10:07:50 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:07:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:07:51 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:07:51 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:07:53 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:07:53 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:07:54 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 09, 2024 10:07:54 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:08:00 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 09, 2024 10:08:01 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 09, 2024 10:08:01 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 09, 2024 10:08:01 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 09, 2024 10:08:01 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: vithalrs@gmail.com
+Oct 10, 2024 6:42:18 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 6:42:22 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [eee4dc1e3a16308e883abd6a87857e67, findElement {using=xpath, value=//button[@type='button']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.100 (cf58cba358d..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:21715}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://169.254.101.5:4444/ses..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eee4dc1e3a16308e883abd6a87857e67
+Oct 10, 2024 6:42:22 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:42:23 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 6:43:14 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 6:43:18 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:43:18 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:43:19 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 6:43:23 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:43:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:43:23 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 6:43:27 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:43:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:43:28 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 6:43:31 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:43:31 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:43:32 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 6:43:47 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 6:43:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:43:47 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 6:43:47 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 6:43:47 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 6:44:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 6:44:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 6:44:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 6:44:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 6:44:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 6:44:35 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:44:35 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:44:36 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:44:36 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:44:36 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:44:36 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:44:37 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 6:44:37 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:44:55 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 10, 2024 6:44:55 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 6:44:55 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 6:44:55 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 6:44:55 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 7:33:55 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:34:01 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 7:34:01 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:34:02 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 7:34:09 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 7:34:09 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:34:11 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 7:34:17 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 7:34:17 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:34:19 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 7:34:25 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 7:34:25 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:34:27 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:34:44 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 10, 2024 7:34:44 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:34:44 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:34:44 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 7:34:44 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 7:49:46 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:49:46 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:49:46 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:49:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 7:49:51 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:49:51 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:49:56 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:49:56 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:49:56 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:50:01 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 7:50:01 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:50:01 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:50:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 7:50:06 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:50:06 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:50:06 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:50:06 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 7:50:06 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 7:50:44 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:50:44 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:50:44 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:50:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 7:50:49 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:50:49 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:50:55 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 7:50:55 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:50:55 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:51:01 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 7:51:01 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:51:01 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:51:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:51:06 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:51:06 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:51:06 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:52:12 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:52:12 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:52:12 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:52:17 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 7:52:17 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:52:17 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:52:23 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 7:52:23 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:52:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:52:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 7:52:29 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:52:29 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:52:34 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:52:34 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:52:34 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:52:34 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:53:27 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:53:27 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:53:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:53:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 7:53:33 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:53:33 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:53:38 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 7:53:38 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:53:38 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:53:44 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:53:44 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:53:44 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:53:50 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 7:53:50 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:53:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:53:50 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:55:12 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:55:12 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:55:12 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:55:17 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 10, 2024 7:55:17 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:55:17 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:55:23 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 10, 2024 7:55:23 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:55:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:55:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 10, 2024 7:55:29 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:55:29 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:55:34 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:55:34 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:55:34 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:55:34 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:57:31 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:57:36 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 10, 2024 7:57:36 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:57:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:57:53 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 10, 2024 7:57:53 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:57:53 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 7:58:48 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 7:58:48 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:58:48 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:58:54 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 7:58:54 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 7:58:54 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 7:58:54 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:01:44 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 8:01:44 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:01:44 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:01:50 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:01:50 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:01:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:01:50 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:01:50 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:01:50 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 8:03:58 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 8:03:58 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:03:58 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:04:03 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:04:03 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:04:03 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:04:03 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:04:03 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:04:03 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 8:04:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:04:39 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:04:39 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:04:39 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:04:39 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:04:39 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 8:07:04 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:07:04 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:07:04 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:07:04 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:07:04 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:07:04 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 8:07:45 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:07:45 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:07:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:07:45 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:07:45 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:07:45 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 8:08:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:08:06 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:08:06 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:08:06 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:08:06 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:08:06 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 8:09:28 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 10, 2024 8:09:28 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:09:28 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:09:50 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 8:09:50 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 8:09:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 8:09:50 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 8:09:50 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 8:09:50 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 9:16:52 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:16:52 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 9:16:52 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:17:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:17:49 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:17:49 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:17:49 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 9:17:49 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 9:17:49 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 9:18:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:18:14 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:18:32 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:18:32 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:18:34 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:18:55 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:18:55 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:18:56 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:19:12 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:19:12 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:19:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:19:33 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:19:33 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:19:33 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 9:19:33 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 9:19:33 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 9:27:17 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:27:34 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:27:34 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:27:34 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 9:27:34 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 9:27:34 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 9:29:03 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:29:21 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:29:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:29:22 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:29:38 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:29:38 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:29:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:29:52 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:29:52 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:29:52 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 9:29:52 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 9:29:52 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 9:32:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:32:56 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:32:56 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:32:57 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:33:12 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:33:12 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:33:12 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:33:26 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:33:26 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:33:26 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 10, 2024 9:33:26 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 10, 2024 9:33:26 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 10, 2024 9:37:22 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:37:22 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 10, 2024 9:37:22 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:37:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:38:06 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:38:06 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:38:07 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 10, 2024 9:38:23 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 10, 2024 9:38:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 10, 2024 9:38:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:49:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:49:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:49:20 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:49:20 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:49:20 PM org.example.utils.LogUtil logInfo
+INFO: Sending Email...
+Oct 11, 2024 8:49:20 PM org.example.utils.LogUtil logInfo
+INFO: Email has been sent successfully to: kabirsharma2607@gmail.com
+Oct 11, 2024 8:50:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:50:15 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:50:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:50:15 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:54:10 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 8:54:10 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:54:10 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:10 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 8:54:15 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:54:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:19 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 8:54:19 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:54:19 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:19 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:23 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 8:54:23 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:54:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:27 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:54:27 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:54:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:54:27 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:55:10 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 8:55:10 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:55:10 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:10 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 8:55:15 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:55:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:19 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 8:55:19 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:55:19 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:19 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:23 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 8:55:23 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:55:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:27 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:55:27 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:55:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:55:27 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:25 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:56:25 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:25 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:25 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:56:29 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:56:29 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:29 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:56:29 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:57:47 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 8:57:47 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:57:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:57:47 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:58:21 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 8:58:21 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 11, 2024 8:58:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:58:21 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 8:59:29 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 8:59:36 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 8:59:36 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 8:59:36 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 9:06:04 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 9:06:14 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:06:14 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:06:16 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 9:06:19 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:06:19 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:06:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 9:06:25 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:06:25 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:06:26 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 9:06:30 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:06:30 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:06:31 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 9:06:50 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 9:06:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:06:50 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 9:07:11 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 9:07:11 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 9:07:11 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 9:07:11 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 9:07:11 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 9:07:17 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:07:17 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:07:18 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:07:18 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:07:18 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:07:18 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:07:23 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:07:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:07:34 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 9:07:34 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:07:35 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 9:07:52 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 9:07:52 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:07:53 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 9:08:11 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 9:08:11 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:08:11 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 9:42:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 9:42:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 9:42:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 9:42:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 9:42:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 9:42:39 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:42:39 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:42:42 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:42:42 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:42:45 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:42:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:42:45 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 9:42:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:42:52 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 11, 2024 9:42:52 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 9:42:52 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 10:10:54 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 10:10:54 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 10:10:54 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 10:10:54 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 10:10:55 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 10:11:00 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:11:00 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:11:00 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:00 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:04 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:11:04 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:05 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:11:05 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:15 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 10:11:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:16 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 10:11:32 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 10:11:32 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 10:11:47 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 10:11:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:11:47 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 11, 2024 10:16:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 11, 2024 10:16:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 11, 2024 10:16:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 11, 2024 10:16:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 11, 2024 10:16:24 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 10:16:31 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:16:31 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:16:32 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:16:32 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:16:32 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:16:32 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:16:42 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 11, 2024 10:16:42 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:16:45 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 10:16:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:16:46 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 10:17:02 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 10:17:02 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:17:04 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 11, 2024 10:17:20 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 11, 2024 10:17:20 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 11, 2024 10:17:20 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithBothWrong - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithWrongPassword - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithPasswordNull - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:51 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:08:55 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:08:55 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:55 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:08:59 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:08:59 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:08:59 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 13, 2024 8:10:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:10:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:10:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:10:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:10:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:10:46 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:10:48 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:10:49 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:10:50 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:10:59 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:11:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:11:16 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:11:16 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 13, 2024 8:18:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:18:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:18:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:18:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:18:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:18:56 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:18:57 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:18:58 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:19:00 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:19:09 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:19:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:19:09 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:19:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:19:09 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:20:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:20:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:20:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:20:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:20:09 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:20:14 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:20:14 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:20:14 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:20:14 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:20:28 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:20:28 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:20:28 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:20:28 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:20:28 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because the return value of "java.lang.ThreadLocal.get()" is null
+Oct 13, 2024 8:21:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:21:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:21:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:21:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:21:00 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:21:04 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:21:04 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:04 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:21:04 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:04 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:21:04 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:05 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:21:05 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:16 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:21:16 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:17 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:21:32 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:21:32 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:21:50 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:21:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:21:50 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 13, 2024 8:23:45 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:23:45 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:23:45 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:23:45 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:23:45 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:23:49 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:23:50 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:24:06 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:24:06 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:24:06 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 13, 2024 8:25:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:25:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:25:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:25:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:25:39 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:25:47 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:25:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:25:47 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:25:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:25:48 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:25:48 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:25:51 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:25:51 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:25:59 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:25:59 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:25:59 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 13, 2024 8:27:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 13, 2024 8:27:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 13, 2024 8:27:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 13, 2024 8:27:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 13, 2024 8:27:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 13, 2024 8:27:21 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:27:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:27:21 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:27:21 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:27:23 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:27:23 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:27:27 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 13, 2024 8:27:27 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:27:32 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 13, 2024 8:27:32 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 13, 2024 8:27:32 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 14, 2024 5:06:13 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 14, 2024 5:06:14 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 14, 2024 5:06:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 14, 2024 5:06:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 14, 2024 5:06:15 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 14, 2024 5:06:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:18 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed with Exception: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5a2d1d72706aad2155ea43b513fe317a, get {url=https://www.oyetest.com/login}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:14183}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:14183/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a2d1d72706aad2155ea43b513fe317a
+Oct 14, 2024 5:06:18 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:18 PM org.example.utils.LogUtil logError
+SEVERE: TC_loginWithEmailNull - Test Failed with Exception: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=129.0.6668.90)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2a958e2b235346f1be1d4b0924f7b3b9, get {url=https://www.oyetest.com/login}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.91 (b00bc8b76d60..., userDataDir: C:\Users\Asus\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:14186}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:14186/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a958e2b235346f1be1d4b0924f7b3b9
+Oct 14, 2024 5:06:18 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 14, 2024 5:06:33 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 14, 2024 5:06:40 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 14, 2024 5:06:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 14, 2024 5:06:40 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:40 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:57 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 14, 2024 5:06:57 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:06:57 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 14, 2024 5:12:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 14, 2024 5:12:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 14, 2024 5:12:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 14, 2024 5:12:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 14, 2024 5:12:20 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 14, 2024 5:12:29 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:12:29 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:12:29 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:12:29 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:12:30 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:12:30 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:12:34 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:12:34 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:12:38 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 14, 2024 5:12:38 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:12:38 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 14, 2024 5:13:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 14, 2024 5:13:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 14, 2024 5:13:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 14, 2024 5:13:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 14, 2024 5:13:37 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 14, 2024 5:13:45 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:13:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:13:45 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:13:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:13:45 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:13:45 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:13:47 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 5:13:47 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:13:52 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 14, 2024 5:13:52 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 5:13:52 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
+Oct 14, 2024 10:31:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 14, 2024 10:31:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 14, 2024 10:31:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 14, 2024 10:31:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 14, 2024 10:31:06 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 14, 2024 10:31:15 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 10:31:15 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 10:31:16 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 10:31:16 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 10:31:17 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 10:31:17 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 10:31:20 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 14, 2024 10:31:20 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 10:31:26 PM org.example.utils.LogUtil logInfo
+INFO: TC_successfulLogin - Test Passed. URL: https://srai.oyetest.com/login
+Oct 14, 2024 10:31:26 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 14, 2024 10:31:26 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 62.442 s <<< FAILURE! - in TestSuite
+TC_successfulLogin(LoginTestTesting)  Time elapsed: 13.498 s  <<< FAILURE!
+java.lang.AssertionError: Login was successful: https://srai.oyetest.com/login expected [true] but found [false]
+	at LoginTestTesting.TC_successfulLogin(LoginTestTesting.java:133)
+

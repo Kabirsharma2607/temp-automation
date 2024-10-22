@@ -1,0 +1,22 @@
+[
+  {
+    "email" : "",
+    "password" : ""
+  },
+  {
+    "email" : "wrongemail@gmail.com",
+    "password" : ""
+  },
+  {
+    "email" : "wrongemail@gmail.com",
+    "password": "23156"
+  },
+  {
+    "email" : "correct@gmail.com",
+    "password" : "janjajna"
+  },
+  {
+    "email" : "srai86825@gmail.com",
+    "password" : "Admin@12345"
+  }
+]

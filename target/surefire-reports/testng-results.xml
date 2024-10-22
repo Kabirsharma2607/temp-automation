@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="2" ignored="2" total="9" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-11T22:10:47 IST" name="Parallel Test Suite" finished-at="2024-10-11T22:11:47 IST" duration-ms="59510">
+    <groups>
+    </groups>
+    <test started-at="2024-10-11T22:10:47 IST" name="Login Tests" finished-at="2024-10-11T22:11:47 IST" duration-ms="59510">
+      <class name="LoginTestTesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:47 IST" name="setUp" finished-at="2024-10-11T22:10:54 IST" duration-ms="6446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:47 IST" name="setUp" finished-at="2024-10-11T22:10:53 IST" duration-ms="5325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:47 IST" name="setUp" finished-at="2024-10-11T22:10:53 IST" duration-ms="5255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:47 IST" name="setUp" finished-at="2024-10-11T22:10:53 IST" duration-ms="5328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:47 IST" name="setUp" finished-at="2024-10-11T22:10:54 IST" duration-ms="7155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_loginWithWrongPassword()[pri:4, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:53 IST" name="TC_loginWithWrongPassword" finished-at="2024-10-11T22:11:00 IST" duration-ms="6782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_loginWithWrongPassword -->
+        <test-method retried="true" signature="TC_successfulLogin()[pri:5, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:53 IST" name="TC_successfulLogin" finished-at="2024-10-11T22:11:15 IST" duration-ms="21982" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login was successful: https://srai.oyetest.com/login expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login was successful: https://srai.oyetest.com/login expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at LoginTestTesting.TC_successfulLogin(LoginTestTesting.java:133)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1589)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_successfulLogin -->
+        <test-method signature="TC_loginWithBothWrong()[pri:3, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:53 IST" name="TC_loginWithBothWrong" finished-at="2024-10-11T22:11:04 IST" duration-ms="11220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_loginWithBothWrong -->
+        <test-method signature="TC_loginWithEmailNull()[pri:1, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:54 IST" name="TC_loginWithEmailNull" finished-at="2024-10-11T22:11:05 IST" duration-ms="10993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_loginWithEmailNull -->
+        <test-method signature="TC_loginWithPasswordNull()[pri:2, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:10:54 IST" name="TC_loginWithPasswordNull" finished-at="2024-10-11T22:11:00 IST" duration-ms="5124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_loginWithPasswordNull -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:00 IST" name="tearDown" finished-at="2024-10-11T22:11:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:00 IST" name="tearDown" finished-at="2024-10-11T22:11:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:04 IST" name="tearDown" finished-at="2024-10-11T22:11:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:05 IST" name="tearDown" finished-at="2024-10-11T22:11:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:15 IST" name="tearDown" finished-at="2024-10-11T22:11:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:15 IST" name="setUp" finished-at="2024-10-11T22:11:16 IST" duration-ms="1143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method retried="true" signature="TC_successfulLogin()[pri:5, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:16 IST" name="TC_successfulLogin" finished-at="2024-10-11T22:11:32 IST" duration-ms="16374" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login was successful: https://srai.oyetest.com/login expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login was successful: https://srai.oyetest.com/login expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at LoginTestTesting.TC_successfulLogin(LoginTestTesting.java:133)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1589)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_successfulLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:32 IST" name="tearDown" finished-at="2024-10-11T22:11:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:32 IST" name="setUp" finished-at="2024-10-11T22:11:33 IST" duration-ms="938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_successfulLogin()[pri:5, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:33 IST" name="TC_successfulLogin" finished-at="2024-10-11T22:11:47 IST" duration-ms="13484" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login was successful: https://srai.oyetest.com/login expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login was successful: https://srai.oyetest.com/login expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at LoginTestTesting.TC_successfulLogin(LoginTestTesting.java:133)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1589)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_successfulLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:47 IST" name="tearDown" finished-at="2024-10-11T22:11:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:LoginTestTesting@70e94ecb]" started-at="2024-10-11T22:11:47 IST" name="cleanUp" finished-at="2024-10-11T22:11:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- LoginTestTesting -->
+    </test> <!-- Login Tests -->
+  </suite> <!-- Parallel Test Suite -->
+</testng-results>

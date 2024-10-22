@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel Test Suite" verbose="1">
+    <listeners>
+        <listener class-name="AnnotationTransformer"/>
+        <listener class-name="TestListener"/>
+    </listeners>
+    <test name="Login Tests" parallel="methods" thread-count="5">
+        <classes>
+            <class name="LoginTestTesting"/>
+        </classes>
+    </test>
+</suite>

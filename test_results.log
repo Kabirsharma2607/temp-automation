@@ -1,0 +1,32 @@
+Oct 08, 2024 7:44:27 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithEmailNull...
+Oct 08, 2024 7:44:36 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithEmailNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:44:36 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:44:36 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithPasswordNull...
+Oct 08, 2024 7:44:40 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithPasswordNull - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:44:40 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:44:40 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithBothWrong...
+Oct 08, 2024 7:44:44 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithBothWrong - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:44:44 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:44:44 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_loginWithWrongPassword...
+Oct 08, 2024 7:44:49 PM org.example.utils.LogUtil logInfo
+INFO: TC_loginWithWrongPassword - Test Passed. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:44:49 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:44:49 PM org.example.utils.LogUtil logInfo
+INFO: Executing TC_successfulLogin...
+Oct 08, 2024 7:45:02 PM org.example.utils.LogUtil logError
+SEVERE: TC_successfulLogin - Test Failed. URL does not contain 'srai'. URL: https://www.oyetest.com/login
+Oct 08, 2024 7:45:02 PM org.example.utils.LogUtil logInfo
+INFO: Test execution completed, closing browser.
+Oct 08, 2024 7:45:02 PM org.example.utils.LogUtil logInfo
+INFO: All tests completed.
